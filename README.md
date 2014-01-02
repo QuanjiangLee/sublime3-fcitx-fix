@@ -21,7 +21,7 @@
 
 ### 1.打开sublime-text-2
 
-    sudo gedit /usr/bin/subl
+    sudo vim /usr/bin/subl
 
 ### 2.修改subl为以下内容
 
@@ -33,7 +33,7 @@
 
 ### 3.打开sublime-text.desktop
 
-    sudo gedit /usr/share/applications/sublime-text.desktop
+    sudo vim /usr/share/applications/sublime-text.desktop
 
 ### 4.修改sublime-text.desktop
 
